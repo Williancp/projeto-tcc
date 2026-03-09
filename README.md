@@ -103,8 +103,13 @@ Template de repositório para projetos de TCC.
   - [ ] zerar erros
 - [ ] Conferir todas as referências e citações
 
-### Preparação para banca
+### Banca
+- [ ] Escolher professores para compor a banca
+- [ ] Enviar convites por e-mail
+- [ ] Encontrar uma data para a defesa
+
+### Apresentação 
 - [ ] Criar apresentação (slides)
 - [ ] Destacar problema, método de busca e principais resultados
 - [ ] Ensaiar a apresentação
-- [ ] Preparar respostas para possíveis perguntas da banca
+- [ ] Preparar respostas para possíveis perguntas
