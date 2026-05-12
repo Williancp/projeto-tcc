@@ -18,8 +18,8 @@ Template de repositório para projetos de TCC.
 - [x] Listar possíveis termos de busca e sinônimos
 
 ### Busca inicial de artigos
-- [ ] Buscar trabalhos relacionados nos principais motores de busca de trabalhos acadêmicos:
-  - [ ] Google Scholar
+- [x] Buscar trabalhos relacionados nos principais motores de busca de trabalhos acadêmicos:
+  - [x] Google Scholar
   - [ ] Scopus
   - [ ] IEEE 
   - [ ] ACM 
