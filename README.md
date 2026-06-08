@@ -28,30 +28,30 @@ Template de repositório para projetos de TCC.
   - [X] número de artigos que foi possível baixar o PDF
   - [X] quantidade de artigos por motores de busca
   - [X] remover duplicatas
-- [ ] Baixar PDF dos artigos e armazenar no repositório 
-- [ ] Criar uma planilha/lista com artigos encontrados
+- [x] Baixar PDF dos artigos e armazenar no repositório 
+- [x] Criar uma planilha/lista com artigos encontrados
 
 ### Leitura inicial
-- [ ] Ler título e resumo dos artigos encontrados
-- [ ] Marcar artigos potencialmente relevantes
-- [ ] Excluir artigos claramente fora do escopo
+- [x] Ler título e resumo dos artigos encontrados
+- [x] Marcar artigos potencialmente relevantes
+- [x] Excluir artigos claramente fora do escopo
 
 ### Leitura intermediária
-- [ ] Ler introdução e conclusão dos artigos selecionados
-- [ ] Identificar os trabalhos mais importantes da área
-- [ ] Registrar contribuições principais de cada artigo
-- [ ] Atualizar a lista de referências relevantes
+- [x] Ler introdução e conclusão dos artigos selecionados
+- [x] Identificar os trabalhos mais importantes da área
+- [x] Registrar contribuições principais de cada artigo
+- [x] Atualizar a lista de referências relevantes
 
 ### Leitura avançada
-- [ ] Ler artigos principais com mais profundidade
-- [ ] Anotar métodos, resultados e limitações
-- [ ] Identificar tendências e abordagens comuns
-- [ ] Registrar citações importantes
+- [x] Ler artigos principais com mais profundidade
+- [x] Anotar métodos, resultados e limitações
+- [x] Identificar tendências e abordagens comuns
+- [x] Registrar citações importantes
 
 ### Organização
-- [ ] Agrupar os artigos por temas ou categorias
-- [ ] Identificar lacunas ou problemas ainda não resolvidos
-- [ ] Criar um mapa conceitual ou estrutura temática da revisão
+- [x] Agrupar os artigos por temas ou categorias
+- [x] Identificar lacunas ou problemas ainda não resolvidos
+- [] Criar um mapa conceitual ou estrutura temática da revisão
 
 ### Estrutura do texto
 - [ ] Definir a estrutura do documento
