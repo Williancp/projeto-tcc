@@ -51,18 +51,18 @@ Template de repositório para projetos de TCC.
 ### Organização
 - [x] Agrupar os artigos por temas ou categorias
 - [x] Identificar lacunas ou problemas ainda não resolvidos
-- [] Criar um mapa conceitual ou estrutura temática da revisão
+- [x] Criar um mapa conceitual ou estrutura temática da revisão
 
 ### Estrutura do texto
-- [ ] Definir a estrutura do documento
-- [ ] Criar seções no LaTeX:
-  - [ ] Introdução
-  - [ ] Trabalhos relacionados
-  - [ ] Metodologia
-  - [ ] Objetivos
-  - [ ] Cronograma
-  - [ ] Trabalhos futuros
-  - [ ] Referências
+- [x] Definir a estrutura do documento
+- [x] Criar seções no LaTeX:
+  - [x] Introdução
+  - [x] Trabalhos relacionados
+  - [x] Metodologia
+  - [x] Objetivos
+  - [x] Cronograma
+  - [x] Trabalhos futuros
+  - [x] Referências
 
 ### Escrita
 
