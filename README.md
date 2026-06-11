@@ -67,10 +67,10 @@ Template de repositório para projetos de TCC.
 ### Escrita
 
 #### Introdução
-- [ ] Escrever a seção de Introdução
-- [ ] Apresentar contexto do problema
-- [ ] Justificar a relevância do tema
-- [ ] Apresentar objetivos do trabalho
+- [x] Escrever a seção de Introdução
+- [x] Apresentar contexto do problema
+- [x] Justificar a relevância do tema
+- [x] Apresentar objetivos do trabalho
 
 #### Metodologia
 - [ ] Descrever como a busca foi realizada
